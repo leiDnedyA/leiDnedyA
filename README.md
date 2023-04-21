@@ -10,7 +10,4 @@ I'm a CS student in Boston, MA<br>I’m currently working on:<br>- RacketScript,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leiDnedyA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=leiDnedyA&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
