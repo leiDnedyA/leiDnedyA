@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a CS student in Boston, MA<br>I’m currently working on:<br>- RacketScript, a Racket to JavaScript compiler<br>- Interactive Exoplanet Predictor: An AI model <br>   and web app that generates a 3D model of a <br>   prediction of a solar system based on data <br>   about it's star
+I'm a CS student in Boston, MA<br>I’m currently working on:
+- [RacketScript](https://github.com/racketscript/racketscript), a Racket to JavaScript compiler
+- [Thrift Router](https://github.com/leiDnedyA/thrift-router), a webapp to get the fastest route to all thrift stores in your area
 
 
 ## 🌐 Socials:
