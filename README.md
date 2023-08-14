@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a CS student in Boston, MA<br>I’m currently working on:
 - [RacketScript](https://github.com/racketscript/racketscript), a Racket to JavaScript compiler
-- [Thrift Router](https://github.com/leiDnedyA/thrift-router), a webapp to get the fastest route to all thrift stores in your area
+- [Twotter]([https://github.com/leiDnedyA/thrift-router](https://github.com/leiDnedyA/twitter-clone)), a full-stack Twitter clone
 
 
 ## 🌐 Socials:
