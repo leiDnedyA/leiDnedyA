@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a CS student in Boston, MA<br>I’m currently working on:
-- [PressKit.ai](https://presskit.ai/), an AI powered PR startup
-- [Interactive Exoplanet Predicter](https://github.com/leiDnedyA/interactive-exoplanet-predictor), an interactive ML model for predicting properties of star systems' exoplanets based on the star's attributes
+- [htdp-universe-js](https://github.com/leiDnedyA/htdp-universe-js), a port of Racket's htdp/universe state management library to JavaScript
 - [Ayden's Fast File Explorer](https://github.com/leiDnedyA/c-file-explorer), A CLI tool built in C that allows you to quickly change directories
 
 
