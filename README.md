@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a CS student in Boston, MA<br>I’m currently working on:
-- [htdp-universe-js](https://github.com/leiDnedyA/htdp-universe-js), a port of Racket's htdp/universe state management library to JavaScript
-- [Ayden's Fast File Explorer](https://github.com/leiDnedyA/c-file-explorer), A CLI tool built in C that allows you to quickly change directories
+- [QR Pigeon](https://www.qrpigeon.pics/), a tool for sharing images between devices instantly via QR codes 🕊️.
 
 
 ## 🌐 Socials:
